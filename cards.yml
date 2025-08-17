@@ -1,0 +1,12 @@
+build:
+  version: 3.0
+
+cards:
+  message: "Rest API to manage cards for EazyBank with dev profile"
+  contactDetails:
+    name: "farmer - Developer"
+    email: "farmer.dikaib@eazybank.com"
+  onCallSupport:
+    - (000) 000-000
+    - (999) 999-999
+    - (777) 777-777

@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 cards:
-  message: "Rest API to manage cards for EazyBank with qa profile FROM file location"
+  message: "Rest API to manage cards for EazyBank with qa profile FROM git location"
   contactDetails:
     name: "Mustapha - QA TESTER"
     email: "mustapaha.dikaib@eazybank.com"

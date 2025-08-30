@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 cards:
-  message: "Rest API to manage cards for EazyBank with production profile"
+  message: "Rest API to manage cards for EazyBank with prod profile"
   contactDetails:
     name: "Babacar - Product Owner"
     email: "babs.dikaib@eazybank.com"
